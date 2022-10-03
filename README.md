@@ -27,9 +27,17 @@
 [7.2]: https://user-images.githubusercontent.com/75971776/129046392-234db950-b6b0-4ed5-b2c5-7e59ec814429.png (Instagram icon)
 [8.2]: https://user-images.githubusercontent.com/75971776/129047594-47710a32-1088-4a66-9f23-857fcbdd5fdd.png (Linkedin icon)
 
+<!-- links to your social media accounts -->
+<!-- update these accordingly -->
 
+[1]: https://twitter.com/Ashutos56695774?s=09
+[2]: https://www.facebook.com/ashutosh.mohanty.58958
+[6]: http://www.github.com/Ashutosh102
+[7]: https://www.instagram.com/dev_ashu_102/
+[8]: https://www.linkedin.com/in/ashutosh-mohanty-3464a6204
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+![Profile View Counter](https://komarev.com/ghpvc/?username=Ashutosh102)
 # 👋👋 Hello!! 👋👋
 _________________________________________
 ![bitmoji](https://sdk.bitmoji.com/render/panel/78635ad8-866d-4ea0-8e1c-0916f12d2297-3cfce0ae-3373-462c-9c9a-4ba199274535-v1.png?transparent=1&palette=1&width=200)
