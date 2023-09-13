@@ -42,9 +42,8 @@
 _________________________________________
 ![bitmoji](https://sdk.bitmoji.com/render/panel/78635ad8-866d-4ea0-8e1c-0916f12d2297-3cfce0ae-3373-462c-9c9a-4ba199274535-v1.png?transparent=1&palette=1&width=200)
 - 👋 Hi, I’m RainbowSunDev, a Web Developer and a opensource enthusiast ☺️👍👍
-- 🎓 I am a student of CSE
+- 🎓 I hold Bachelor Degree of Computer Science
 - 👀 I’m interested in coding,developing,singing and graphics designing
-- 🌱 I’m currently pursuing CSE at GIET University,Gunupur,Raygada,Odisha
 - 💞️ I’m looking to contribute on Web Development
 ## 🙋‍♂️ About 🙋‍♂ 
 ![bitmoji](https://sdk.bitmoji.com/render/panel/2af24209-ea90-4912-9223-4c54c650559a-3cfce0ae-3373-462c-9c9a-4ba199274535-v1.png?transparent=1&palette=1&width=200)
