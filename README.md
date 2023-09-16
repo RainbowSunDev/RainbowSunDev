@@ -7,13 +7,6 @@
 
 <!-- display the social media buttons in your README -->
 
-[![Skype][1.2]][1]-----
-[![WhatsApp][2.2]][2]-----
-[![GitHub][6.2]][6]-----
-[![Telegram][7.2]][7]-----
-[![Linkedin][8.2]][8]
-
-
 <!-- links to social media icons -->
 <!-- no need to change these -->
 <!-- icons without padding -->
