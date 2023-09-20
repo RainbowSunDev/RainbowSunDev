@@ -7,6 +7,6 @@ This is further augmented by my hands-on experience with SPA frameworks like Rea
 Passionate about problem-solving, I've continuously sought challenges that refine my skills, ensuring that every solution I offer is both innovative and efficient.
 
 </h2>
-<h3 align="center">Connect with me📱</h3>
+<h3 align="center">Connect with me</h3>
 
 
